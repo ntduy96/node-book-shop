@@ -1,0 +1,28 @@
+{
+  "name": "book-shop",
+  "version": "0.0.1",
+  "description": "A book shop application built in Node, using React for front-end",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines": {
+    "node": "8.9.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ntduy96/node-book-shop.git"
+  },
+  "keywords": [
+    "express",
+    "node",
+    "react",
+    "heroku"
+  ],
+  "author": "ntduy96",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ntduy96/node-book-shop/issues"
+  },
+  "homepage": "https://github.com/ntduy96/node-book-shop#readme"
+}
